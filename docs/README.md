@@ -1,6 +1,6 @@
 # Test de ejemplos 
 
->Test de ejemplos de la documentación de pytest.
+>Tests de ejemplos de la documentación de pytest.
 
 ## Requirements
 
